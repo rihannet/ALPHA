@@ -1,0 +1,365 @@
+{
+    "autism_types": {
+      "Asperger": {
+        "questions": {
+          "Q1": {
+            "question": "How does the child typically respond in social situations?",
+            "answers": [
+              "Avoids eye contact, mainly speaks about specific topics.",
+              "Shows intense focus on one subject and does not shift easily to others.",
+              "Engages in conversation but struggles to follow social cues."
+            ]
+          },
+          "Q2": {
+            "question": "Describe the child’s communication skills: verbal and non-verbal.",
+            "answers": [
+              "Speaks with an unusual pitch or tone; sometimes too loud or too flat.",
+              "Primarily talks about personal interests with minimal gestures or facial expressions.",
+              "Has difficulty understanding non-verbal cues like gestures and facial expressions."
+            ]
+          },
+          "Q3": {
+            "question": "How does the child handle changes in routine or environment?",
+            "answers": [
+              "Gets very upset with minor changes to routine.",
+              "Repeats certain behaviors or phrases when routines are altered.",
+              "Strongly resists any adjustments to familiar activities."
+            ]
+          },
+          "Q4": {
+            "question": "What specific behaviors, mannerisms, or repetitive actions have you observed?",
+            "answers": [
+              "Has intense interests in one or two narrow topics.",
+              "Shows unique hand movements or repetitive actions.",
+              "Displays a strong attachment to routines and repetitive behaviors."
+            ]
+          },
+          "Q5": {
+            "question": "How would you describe the child’s motor skills or physical coordination?",
+            "answers": [
+              "Shows clumsiness or difficulty with coordination, particularly with handwriting.",
+              "Movements sometimes seem uncoordinated or stiff.",
+              "Struggles with tasks that require fine motor skills, like drawing or writing."
+            ]
+          },
+          "Q6": {
+            "question": "How does the child express or manage their emotions?",
+            "answers": [
+              "Has emotional outbursts when routines change or social interactions become challenging.",
+              "Displays difficulty understanding other people's feelings.",
+              "Sometimes has intense, seemingly out-of-place reactions to minor events."
+            ]
+          },
+          "Q7": {
+            "question": "Does the child show sensitivity to specific sounds, lights, or textures?",
+            "answers": [
+              "Reacts strongly to certain sounds or lights, like a loud environment.",
+              "Becomes uncomfortable with certain textures, such as clothing tags.",
+              "Experiences heightened sensitivity to background noise or visual stimuli."
+            ]
+          }
+        }
+      },
+      "AutisticDisorder": {
+        "questions": {
+          "Q1": {
+            "question": "How does the child typically respond in social situations?",
+            "answers": [
+              "Avoids eye contact and does not respond to their name.",
+              "Rarely participates in social play or shared activities.",
+              "Does not show typical reactions to social cues like smiling or waving."
+            ]
+          },
+          "Q2": {
+            "question": "Describe the child’s communication skills: verbal and non-verbal.",
+            "answers": [
+              "Uses very few gestures and avoids pointing or waving.",
+              "Speech may be delayed or missing entirely.",
+              "Appears unable to understand or use facial expressions."
+            ]
+          },
+          "Q3": {
+            "question": "How does the child handle changes in routine or environment?",
+            "answers": [
+              "Becomes visibly upset with changes, often repeating the same phrases or actions.",
+              "Strongly resists attempts to alter routines.",
+              "Appears uncomfortable with new situations or surroundings."
+            ]
+          },
+          "Q4": {
+            "question": "What specific behaviors, mannerisms, or repetitive actions have you observed?",
+            "answers": [
+              "Frequently flaps hands or rocks back and forth.",
+              "Engages in intense repetition of certain phrases or behaviors.",
+              "Shows distress when prevented from engaging in repetitive actions."
+            ]
+          },
+          "Q5": {
+            "question": "How would you describe the child’s motor skills or physical coordination?",
+            "answers": [
+              "Appears clumsy and may struggle with physical coordination.",
+              "Avoids group games or activities requiring motor skills.",
+              "Displays a lack of control with fine motor skills."
+            ]
+          },
+          "Q6": {
+            "question": "How does the child express or manage their emotions?",
+            "answers": [
+              "Often appears detached, even when experiencing strong emotions.",
+              "Rarely shows emotional responses in a typical way.",
+              "Engages in self-injurious behaviors or tantrums when frustrated."
+            ]
+          },
+          "Q7": {
+            "question": "Does the child show sensitivity to specific sounds, lights, or textures?",
+            "answers": [
+              "Overreacts to certain sounds or textures, often covering ears.",
+              "Becomes visibly distressed with bright lights or rough materials.",
+              "Shows signs of discomfort around various sensory stimuli."
+            ]
+          }
+        }
+      },
+      "CDD": {
+        "questions": {
+          "Q1": {
+            "question": "How does the child typically respond in social situations?",
+            "answers": [
+              "Previously engaged socially but now avoids interactions.",
+              "Appears less interested in interacting with others over time.",
+              "Avoids eye contact, especially since regression in skills began."
+            ]
+          },
+          "Q2": {
+            "question": "Describe the child’s communication skills: verbal and non-verbal.",
+            "answers": [
+              "Has lost previously acquired speech and gesture abilities.",
+              "Rarely engages verbally and no longer responds to social cues.",
+              "Exhibits a noticeable reduction in communication skills over time."
+            ]
+          },
+          "Q3": {
+            "question": "How does the child handle changes in routine or environment?",
+            "answers": [
+              "Becomes highly distressed with changes to familiar routines.",
+              "Often repeats phrases or actions when routines change.",
+              "Displays resistance to even minor alterations in environment."
+            ]
+          },
+          "Q4": {
+            "question": "What specific behaviors, mannerisms, or repetitive actions have you observed?",
+            "answers": [
+              "Engages in repetitive hand movements or rocking, which were not present before.",
+              "Shows strong attachment to repetitive actions post-regression.",
+              "Exhibits loss of play and social skills, favoring solitary actions."
+            ]
+          },
+          "Q5": {
+            "question": "How would you describe the child’s motor skills or physical coordination?",
+            "answers": [
+              "Previously coordinated but now has difficulty with basic motor skills.",
+              "Shows a noticeable decline in physical abilities over time.",
+              "Loses previously acquired physical skills, like using utensils."
+            ]
+          },
+          "Q6": {
+            "question": "How does the child express or manage their emotions?",
+            "answers": [
+              "Experiences frequent outbursts or frustration, particularly when routines change.",
+              "Becomes highly emotional or withdrawn following regression.",
+              "Rarely shows interest in others’ emotions, unlike before."
+            ]
+          },
+          "Q7": {
+            "question": "Does the child show sensitivity to specific sounds, lights, or textures?",
+            "answers": [
+              "Has developed new sensitivities, especially to loud noises.",
+              "Reacts to sensory stimuli in ways not seen before regression.",
+              "Shows heightened sensitivity to specific textures or lights."
+            ]
+          }
+        }
+      },
+      "PDD-NOS": {
+        "questions": {
+          "Q1": {
+            "question": "How does the child typically respond in social situations?",
+            "answers": [
+              "Avoids eye contact and often seems withdrawn.",
+              "Sometimes engages but only for brief periods.",
+              "Displays limited or awkward social interactions."
+            ]
+          },
+          "Q2": {
+            "question": "Describe the child’s communication skills: verbal and non-verbal.",
+            "answers": [
+              "Often has difficulty initiating conversations or responding verbally.",
+              "Has a limited range of facial expressions and gestures.",
+              "Struggles with back-and-forth interactions."
+            ]
+          },
+          "Q3": {
+            "question": "How does the child handle changes in routine or environment?",
+            "answers": [
+              "Shows discomfort with changes, may become anxious.",
+              "Often repeats certain behaviors to soothe themselves.",
+              "Tends to withdraw when routines are disrupted."
+            ]
+          },
+          "Q4": {
+            "question": "What specific behaviors, mannerisms, or repetitive actions have you observed?",
+            "answers": [
+              "Engages in repetitive hand movements or rocking.",
+              "Displays a preference for repetitive actions, like lining up objects.",
+              "Shows less interest in interactive play and prefers solitary play."
+            ]
+          },
+          "Q5": {
+            "question": "How would you describe the child’s motor skills or physical coordination?",
+            "answers": [
+              "Appears awkward in movement or has poor balance.",
+              "Sometimes avoids certain physical activities that involve coordination.",
+              "Displays difficulty with tasks that require precise hand movements."
+            ]
+          },
+          "Q6": {
+            "question": "How does the child express or manage their emotions?",
+            "answers": [
+              "Has emotional outbursts, especially when routines change.",
+              "Appears withdrawn or less expressive emotionally.",
+              "Struggles to connect with the emotions of others."
+            ]
+          },
+          "Q7": {
+            "question": "Does the child show sensitivity to specific sounds, lights, or textures?",
+            "answers": [
+              "Often becomes anxious or upset with loud noises.",
+              "Shows preferences for specific textures or materials.",
+              "Demonstrates sensitivities to bright lights or busy environments."
+            ]
+          }
+        }
+      },
+      "Rett": {
+        "questions": {
+          "Q1": {
+            "question": "How does the child typically respond in social situations?",
+            "answers": [
+              "Previously engaged socially but now shows less interest.",
+              "Avoids eye contact or seems less responsive.",
+              "Shows some awareness of social situations but struggles to engage."
+            ]
+          },
+          "Q2": {
+            "question": "Describe the child’s communication skills: verbal and non-verbal.",
+            "answers": [
+              "Has lost the ability to speak or has very limited verbal communication.",
+              "Uses gestures but may have difficulty understanding others.",
+              "Exhibits reduced use of non-verbal communication over time."
+            ]
+          },
+          "Q3": {
+            "question": "How does the child handle changes in routine or environment?",
+            "answers": [
+              "Becomes distressed when routines change.",
+              "May engage in repetitive behaviors to cope with changes.",
+              "Struggles to adapt to new situations or environments."
+            ]
+          },
+          "Q4": {
+            "question": "What specific behaviors, mannerisms, or repetitive actions have you observed?",
+            "answers": [
+              "Engages in hand-wringing or repetitive hand movements.",
+              "Shows attachment to specific routines or rituals.",
+              "Displays less interest in active play compared to before."
+            ]
+          },
+          "Q5": {
+            "question": "How would you describe the child’s motor skills or physical coordination?",
+            "answers": [
+              "Shows a decline in motor skills, especially with hand coordination.",
+              "Struggles with tasks that involve fine motor skills.",
+              "May experience challenges with basic movements or walking."
+            ]
+          },
+          "Q6": {
+            "question": "How does the child express or manage their emotions?",
+            "answers": [
+              "Often appears frustrated or anxious, especially in social contexts.",
+              "Displays less emotional expressiveness than previously.",
+              "Becomes upset when unable to perform previously enjoyed activities."
+            ]
+          },
+          "Q7": {
+            "question": "Does the child show sensitivity to specific sounds, lights, or textures?",
+            "answers": [
+              "May become distressed with certain sounds or lights.",
+              "Shows preferences for specific sensory experiences.",
+              "Demonstrates signs of discomfort with various sensory stimuli."
+            ]
+          }
+        }
+      },
+      "HFA": {
+        "questions": {
+          "Q1": {
+            "question": "How does the child typically respond in social situations?",
+            "answers": [
+              "Engages in conversation but may struggle to maintain topics.",
+              "Shows some interest in peers but often does not know how to interact.",
+              "Has difficulty understanding social cues or sarcasm."
+            ]
+          },
+          "Q2": {
+            "question": "Describe the child’s communication skills: verbal and non-verbal.",
+            "answers": [
+              "Verbal skills are typically advanced but may lack in pragmatics.",
+              "Displays less use of gestures or body language.",
+              "Sometimes speaks in an unusual tone or rhythm."
+            ]
+          },
+          "Q3": {
+            "question": "How does the child handle changes in routine or environment?",
+            "answers": [
+              "May become anxious or upset with changes.",
+              "Displays resistance to new activities or routines.",
+              "Often engages in coping mechanisms when faced with uncertainty."
+            ]
+          },
+          "Q4": {
+            "question": "What specific behaviors, mannerisms, or repetitive actions have you observed?",
+            "answers": [
+              "Shows an intense focus on specific subjects.",
+              "May engage in repetitive behaviors like tapping or fidgeting.",
+              "Demonstrates unique hobbies or interests that occupy significant time."
+            ]
+          },
+          "Q5": {
+            "question": "How would you describe the child’s motor skills or physical coordination?",
+            "answers": [
+              "Motor skills are generally average but may exhibit some clumsiness.",
+              "Engages in physical activities but may prefer solitary play.",
+              "Displays difficulty with certain sports or group activities."
+            ]
+          },
+          "Q6": {
+            "question": "How does the child express or manage their emotions?",
+            "answers": [
+              "Can articulate feelings but may struggle to express them in context.",
+              "Shows frustration when unable to engage in preferred activities.",
+              "Demonstrates emotional responses that may seem out of place."
+            ]
+          },
+          "Q7": {
+            "question": "Does the child show sensitivity to specific sounds, lights, or textures?",
+            "answers": [
+              "May react negatively to loud sounds or bright lights.",
+              "Shows strong preferences for specific textures or fabrics.",
+              "Often avoids overwhelming sensory experiences."
+            ]
+          }
+        }
+      }
+    }
+  }
+  
